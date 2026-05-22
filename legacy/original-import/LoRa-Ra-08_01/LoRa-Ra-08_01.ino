@@ -6,7 +6,7 @@
 const char* WIFI_SSID = "DEIN_WLAN";
 const char* WIFI_PASS = "DEIN_PASS";
 
-const char* MQTT_HOST = "192.168.1.10";   // BreachGateway IP
+const char* MQTT_HOST = "YOUR_SERVER_IP";   // BreachGateway IP
 const uint16_t MQTT_PORT = 1883;
 const char* MQTT_USER = "";              // falls nötig
 const char* MQTT_PASS = "";              // falls nötig
