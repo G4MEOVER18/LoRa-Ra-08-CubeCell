@@ -18,3 +18,9 @@ MIT – siehe `LICENSE`.
 
 ## Tags (für GitHub)
 lora, cubecell, heltec, 433mhz, iot
+
+---
+
+## Kontakt
+
+**Entwickler:** Yanis Ameseder · **E-Mail:** [g4me.over.18@gmail.com](mailto:g4me.over.18@gmail.com)
