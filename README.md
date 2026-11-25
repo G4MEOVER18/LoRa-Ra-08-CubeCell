@@ -2,6 +2,8 @@
 
 # LoRa-Ra-08-CubeCell
 
+[![CI](https://github.com/G4MEOVER18/LoRa-Ra-08-CubeCell/actions/workflows/platformio-build.yml/badge.svg)](https://github.com/G4MEOVER18/LoRa-Ra-08-CubeCell/actions/workflows/platformio-build.yml)
+
 **LoRa-RX-Finder für Heltec CubeCell (ASR6502) bei 433.775 MHz** — empfängt Pakete und zeigt die Signalstärke per LED (hot/cold) und Serial.
 
 [![Plattform](https://img.shields.io/badge/Plattform-CubeCell%20ASR6502-blue?style=flat-square)](.)
